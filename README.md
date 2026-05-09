@@ -1,2 +1,2 @@
-# lightshow-rush.erroroliver.lol
+# Lightshow RUSH! website
 Website
